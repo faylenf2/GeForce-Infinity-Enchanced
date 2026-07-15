@@ -69,6 +69,7 @@ const keyboardLayoutOptions = [
 // New options
 const resolutionOptions = [
     { label: "1366 x 768", value: "1366x768" },
+    { label: "1600 x 900", value: "1600x900" },
     { label: "1920 x 1080", value: "1920x1080" },
     { label: "2560 x 1440", value: "2560x1440" },
 ];
